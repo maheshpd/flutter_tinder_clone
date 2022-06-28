@@ -1,16 +1,3 @@
 # flutter_tinder_clone
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/26844387/176083706-4060e55a-89a1-4f0e-b84f-16335a9cd8f6.png" width="200" height="400" />  <img src="https://user-images.githubusercontent.com/26844387/176099932-60f3aa57-06fc-42f4-9aa8-e29ec67cf794.png" width="200" height="400" />  <img src="https://user-images.githubusercontent.com/26844387/176100178-8e6af3eb-9c75-4e8b-9f9d-e1aea79f5d28.png" width="200" height="400" />  <img src="<img src="https://user-images.githubusercontent.com/26844387/176100178-8e6af3eb-9c75-4e8b-9f9d-e1aea79f5d28.png" width="200" height="400" /> 
